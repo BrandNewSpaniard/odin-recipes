@@ -1,0 +1,32 @@
+* {
+
+text-align: center;}
+
+#argui {
+
+    width: 250px;
+    height: 300px;
+    border: 2px solid #111111;
+
+}
+
+.header {
+
+    background-color: green;
+    color: white;
+}
+
+.active{
+    color: #2ab9d8; 
+    font-size: 12px; 
+    letter-spacing: .3px;
+    text-transform: uppercase;
+    text-decoration: none;
+    -webkit-transition: all ease-in 133ms;
+    -moz-transition: all ease-in 133ms;
+    -o-transition: all ease-in 133ms;
+    -ms-transition: all ease-in 133ms;
+     transition: all ease-in 133ms;
+    border-bottom: 1px solid #2ab9d8;
+    
+    }
